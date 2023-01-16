@@ -1,0 +1,5 @@
+D21 - Fan Relay
+D20 - LED Relay
+D19 - S1
+D26 - S2
+D16 - DHT22
